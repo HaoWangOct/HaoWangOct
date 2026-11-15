@@ -53,22 +53,7 @@ Research project investigating constrained optimization techniques for tau-decay
 
 ---
 
-### 🎲 02. Stochastic Processes & Monte Carlo Simulation
 
-**Probability · Statistical Modelling · Computational Mathematics**
-
-Academic research and computational experiments involving stochastic systems.
-
-**Highlights**
-- Simulated stochastic processes and studied mixing behaviour
-- Explored Markov chains and the Ising model
-- Connected probabilistic theory with numerical simulations
-
-`R` `Python` `Markov Chains` `Monte Carlo` `Statistical Analysis`
-
-*Repository and additional documentation to be added.*
-
----
 
 ### 📈 03. Optiver Hackathon — Trading Strategy
 
