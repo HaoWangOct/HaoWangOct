@@ -55,7 +55,7 @@ Research project investigating constrained optimization techniques for tau-decay
 
 
 
-### 📈 03. Optiver Hackathon — Trading Strategy
+### 📈 02. Optiver Hackathon — Trading Strategy
 
 **Algorithmic Trading · Quantitative Research · Financial Markets**
 
@@ -73,7 +73,7 @@ Research project investigating constrained optimization techniques for tau-decay
 
 ---
 
-### 🌐 04. CarryLink — Web Application
+### 🌐 03. CarryLink — Web Application
 
 **Software Development · Product-Oriented Thinking**
 
