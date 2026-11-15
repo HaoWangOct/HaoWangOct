@@ -74,11 +74,17 @@ Academic research and computational experiments involving stochastic systems.
 
 **Algorithmic Trading · Quantitative Research · Financial Markets**
 
-> 🚧 Project documentation and source code coming soon.
+[**View Project →**](https://github.com/HaoWangOct/optiver-hackatum-trading-strategy)
 
-A future showcase of my Optiver Hackathon trading-strategy work, including strategy design, implementation, evaluation and key findings.
+**HackaTUM 2024 — Transistor Trading.** Post-event reconstruction of an ETF relative-value trading research project based on retained competition notes and public Optibook examples.
 
-`Python` `Quantitative Trading` `Strategy Development`
+**Highlights**
+- Developed a modular Python research prototype for cross-listed ETF price discrepancies and executable basket valuations
+- Implemented inventory-adjusted two-sided quoting, position/notional risk limits and synthetic fill/PnL accounting
+- Added an exploratory rolling Fourier forecasting module and unit tests
+- Documented assumptions and limitations transparently; **offline simulation, not verified competition PnL**
+
+`Python` `Statistical Arbitrage` `ETF Pricing` `Risk Controls` `Simulation`
 
 ---
 
@@ -142,7 +148,7 @@ I'm progressively organizing and publishing additional research, programming and
 
 | Project | Focus | Status |
 | :--- | :--- | :--- |
-| **Optiver Hackathon Trading Strategy** | Quantitative Trading, Strategy Evaluation | Coming Soon |
+| **[Optiver HackaTUM Strategy](https://github.com/HaoWangOct/optiver-hackatum-trading-strategy)** | ETF Arbitrage, Market Making, Risk Control | Reconstruction Published; Extending |
 | **Quantitative Risk Modelling** | VaR, ES, Monte Carlo, Backtesting | Planned Portfolio Showcase |
 | **Additional Data Science Projects** | Statistical Learning, Data Analysis | To Be Added |
 | **Further Research & Coding Projects** | Scientific Computing, Optimization | To Be Added |
