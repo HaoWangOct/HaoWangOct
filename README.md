@@ -22,6 +22,8 @@ I'm a Mathematics master's student at the **Technical University of Munich (TUM)
 
 My background combines mathematical modelling, statistical analysis, and computational problem-solving. I have worked with large-scale experimental datasets, stochastic simulations, numerical optimization, and quantitative risk models.
 
+My [Physics Labor portfolio](https://github.com/HaoWangOct/Physics-Labor-) brings together five physics and biophysics laboratory reports, with concise explanations of experimental methods, results and figures.
+
 My interests focus on applying rigorous quantitative methods to challenges in **finance, risk management, data science, and consulting**.
 
 **What I bring:**
@@ -82,6 +84,24 @@ Research project investigating constrained optimization techniques for tau-decay
 A web application project exploring practical solutions for connecting travelers and senders.
 
 `TypeScript` `Web Development`
+
+---
+
+### 🧪 04. Physics Labor — Experimental Physics & Biophysics
+
+**Experimental Methods · Data Analysis · Scientific Reporting**
+
+[**View Repository →**](https://github.com/HaoWangOct/Physics-Labor-)
+
+A curated collection of five laboratory reports covering ferromagnetic resonance, radon spectroscopy, CRISPR/Cas9, DNA origami and molecular cloning.
+
+**Highlights**
+
+- Presents experimental methods, key results and representative figures for each topic
+- Covers spectral calibration, resonance fitting, fluorescence kinetics and bacterial growth analysis
+- Includes full LaTeX reports and original figures, with team authorship, reference material and experimental limitations clearly documented
+
+`Experimental Physics` `Biophysics` `Data Analysis` `LaTeX`
 
 ---
 
